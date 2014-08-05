@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+ <test name="Test 1">
+    <classes>
+      <class name="wordpress.blogs.tests.LoginFunction"/>
+    </classes>
+  </test> <!-- Test -->
+  <!-- <test name="Test 2">
+  <classes>
+  <class  name="persistent.UI_Automation_Wordpress.tryTestNG"/>
+  	<groups>
+  		<include name="smoke"/>
+  	</groups>
+  	
+  	</classes>
+  </test> Test -->
+</suite> <!-- Suite -->

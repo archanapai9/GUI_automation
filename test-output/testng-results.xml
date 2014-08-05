@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59697" started-at="2014-08-05T22:03:58Z" finished-at="2014-08-05T22:04:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59697" started-at="2014-08-05T22:03:58Z" finished-at="2014-08-05T22:04:57Z">
+      <class name="persistent.UI_Automation_Wordpress.CreatePostDriver">
+        <test-method status="PASS" signature="CreatePost()[pri:0, instance:persistent.UI_Automation_Wordpress.CreatePostDriver@c544ca2]" name="CreatePost" duration-ms="59675" started-at="2014-08-06T03:33:58Z" finished-at="2014-08-06T03:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePost -->
+      </class> <!-- persistent.UI_Automation_Wordpress.CreatePostDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
